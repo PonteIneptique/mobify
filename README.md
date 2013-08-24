@@ -3,11 +3,11 @@ Mobify
 
 Aim
 --------------------
-This project is python based. Its aim is to find context around a given list or word in corpora, which can be divided. For now, it provides :
+This project is python based. Its aim is to find context around a given list of words in corpora, which can be divided. For now, it provides :
 
-* Finder of the word with its frequency
-* Finder of synonym of the word within the text
-* Finder of sentences in which the word appears
+* Finder of words with their frequency
+* Finder of words synonyms within the text
+* Finder of sentences in which these words appears
 * Sentiment analyser of these sentences
 * Frequency of lemma in these sentences
 
